@@ -1,7 +1,7 @@
-Introducing my QR Code Generator App, a project I built using HTML, CSS, and JavaScript, powered by API calls. This has been an exciting journey of coding and creativity, resulting in a dynamic tool to generate QR codes seamlessly. 💻
+Introducing my Dictionary App, a project I crafted using HTML, CSS, and JavaScript, and powered by API calls. This journey has been an incredible learning experience, as I combined my coding skills to create a dynamic and user-friendly dictionary tool. 💻
+
+📚 With this app, I've built a seamless and interactive platform where users can explore word meanings, synonyms, antonyms, and even hear pronunciations. It's been a fantastic challenge that allowed me to enhance my knowledge of front-end technologies and integrate APIs to fetch real-time data.
 
 🔗 Check out the live version of the app here: https://dictionary-api-javascript.netlify.app/
 
-📲 With this app, users can easily generate QR codes for various purposes like URLs, contact information, and more. It's been an incredible experience integrating APIs to bring real-time functionality to the app, expanding my knowledge of front-end technologies.
 
-🤝 I invite all of you to experience the app and share your valuable feedback. Your support, likes, comments, and endorsements mean the world to me and inspire me to push further in my web development journey! 🙏
